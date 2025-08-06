@@ -65,7 +65,7 @@ moniepoint_kvstore/
 ## ⚡ Installation
 
 ```bash
-git clone https://github.com/your-repo/moniepoint_kvstore.git
+git clone https://github.com/mukeshpatil1-coder/moniepoint_kvstore.git
 cd moniepoint_kvstore
 python3 -m venv .venv
 source .venv/bin/activate
